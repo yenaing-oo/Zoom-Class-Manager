@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="appIcon">zoom_icon.ico</file>
+    <file alias="email">envelope.svg</file>
+    <file alias="emailHover">envelope_hover.svg</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file alias="latoBold">Lato-Bold.ttf</file>
+    <file alias="lato">Lato-Regular.ttf</file>
+    <file alias="moonBold">Moon Bold.otf</file>
+    <file alias="moon">Moon Light.otf</file>
+  </qresource>
+</RCC>
