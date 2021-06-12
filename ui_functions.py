@@ -113,7 +113,6 @@ class UIFunctions(MainWindow):
         return newCourse, index
 
     @staticmethod
-    @pyqtSlot(dict)
     def sqlUpdateData(cur, dataDict):
         courseID = dataDict.pop("courseID")
         
